@@ -1,0 +1,15 @@
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\bin\Debug\net5.0\Droveaircraft.exe
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\bin\Debug\net5.0\Droveaircraft.deps.json
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\bin\Debug\net5.0\Droveaircraft.runtimeconfig.json
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\bin\Debug\net5.0\Droveaircraft.runtimeconfig.dev.json
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\bin\Debug\net5.0\Droveaircraft.dll
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\bin\Debug\net5.0\Droveaircraft.pdb
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\obj\Debug\net5.0\Droveaircraft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\obj\Debug\net5.0\Droveaircraft.AssemblyInfoInputs.cache
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\obj\Debug\net5.0\Droveaircraft.AssemblyInfo.cs
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\obj\Debug\net5.0\Droveaircraft.csproj.CoreCompileInputs.cache
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\obj\Debug\net5.0\Droveaircraft.dll
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\obj\Debug\net5.0\refint\Droveaircraft.dll
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\obj\Debug\net5.0\Droveaircraft.pdb
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\obj\Debug\net5.0\Droveaircraft.genruntimeconfig.cache
+D:\Apply\The Netherlands\Saxion\New folder\Droveaircraft\obj\Debug\net5.0\ref\Droveaircraft.dll
