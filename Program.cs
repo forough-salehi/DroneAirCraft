@@ -1,5 +1,7 @@
 ﻿using DroneAircraft;
 using System;
+using System.Text.RegularExpressions;
+
 
 namespace DroneSimulation
 {
@@ -16,19 +18,24 @@ namespace DroneSimulation
 
                 if (input.StartsWith("LAUNCH"))
                 {
-                    
-                    string[] parts = input.Split(' ');
-                    int newX = int.Parse(parts[1].Split(',')[0]);
-                    int newY = int.Parse(parts[1].Split(',')[1]);
-                    try
-                    { 
-                        Direction newFacing = (Direction)Enum.Parse(typeof(Direction), parts[1].Split(',')[2]);
-                        drone.Launch(newX, newY, newFacing);
-                    }
-                    catch (ArgumentException )
+                    string pattern = @"^LAUNCH -?\d+,-?\d+,(NORTH|SOUTH|EAST|WEST)$";
+                    Regex rg = new Regex(pattern);
+
+                    // check if the command matches the pattern
+                    if (rg.IsMatch(input))
                     {
-                        Console.WriteLine("the command is typed incorrectly; please write the direction in correct dictation such as :north,south,east,west ");
+                        string[] parts = input.Split(' ');
+                        int newX = int.Parse(parts[1].Split(',')[0]);
+                        int newY = int.Parse(parts[1].Split(',')[1]);                   
+                        Direction newFacing = (Direction)Enum.Parse(typeof(Direction), parts[1].Split(',')[2]);
+                        drone.Launch(newX, newY, newFacing);                  
+                       
                     }
+                    else
+                    {
+                        Console.WriteLine("he command is typed incorrectly; consider this instruction :launch digit,digit,north|south|east|west");
+                    }
+                    
                                         
                     
                 }

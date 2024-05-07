@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Apply\\The Netherlands\\Saxion\\New folder\\DroneAircraft\\DroneAircraft.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\c#\\DroneAirCraft1\\DroneAircraft.csproj": {}
   },
   "projects": {
-    "D:\\Apply\\The Netherlands\\Saxion\\New folder\\DroneAircraft\\DroneAircraft.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\c#\\DroneAirCraft1\\DroneAircraft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Apply\\The Netherlands\\Saxion\\New folder\\DroneAircraft\\DroneAircraft.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\c#\\DroneAirCraft1\\DroneAircraft.csproj",
         "projectName": "DroneAircraft",
-        "projectPath": "D:\\Apply\\The Netherlands\\Saxion\\New folder\\DroneAircraft\\DroneAircraft.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\c#\\DroneAirCraft1\\DroneAircraft.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Apply\\The Netherlands\\Saxion\\New folder\\DroneAircraft\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\c#\\DroneAirCraft1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

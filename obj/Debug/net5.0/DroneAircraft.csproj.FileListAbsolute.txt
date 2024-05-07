@@ -13,3 +13,35 @@ D:\Apply\The Netherlands\Saxion\New folder\DroneAircraft\obj\Debug\net5.0\refint
 D:\Apply\The Netherlands\Saxion\New folder\DroneAircraft\obj\Debug\net5.0\DroneAircraft.pdb
 D:\Apply\The Netherlands\Saxion\New folder\DroneAircraft\obj\Debug\net5.0\DroneAircraft.genruntimeconfig.cache
 D:\Apply\The Netherlands\Saxion\New folder\DroneAircraft\obj\Debug\net5.0\ref\DroneAircraft.dll
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\bin\Debug\net5.0\DroneAircraft.exe
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\bin\Debug\net5.0\DroneAircraft.deps.json
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\bin\Debug\net5.0\DroneAircraft.runtimeconfig.json
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\bin\Debug\net5.0\DroneAircraft.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\bin\Debug\net5.0\DroneAircraft.dll
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\bin\Debug\net5.0\DroneAircraft.pdb
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\obj\Debug\net5.0\DroneAircraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\obj\Debug\net5.0\DroneAircraft.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\obj\Debug\net5.0\DroneAircraft.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\obj\Debug\net5.0\DroneAircraft.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\obj\Debug\net5.0\DroneAircraft.sourcelink.json
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\obj\Debug\net5.0\DroneAircraft.dll
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\obj\Debug\net5.0\refint\DroneAircraft.dll
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\obj\Debug\net5.0\DroneAircraft.pdb
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\obj\Debug\net5.0\DroneAircraft.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\c#\DroneAirCraft\obj\Debug\net5.0\ref\DroneAircraft.dll
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\bin\Debug\net5.0\DroneAircraft.exe
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\bin\Debug\net5.0\DroneAircraft.deps.json
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\bin\Debug\net5.0\DroneAircraft.runtimeconfig.json
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\bin\Debug\net5.0\DroneAircraft.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\bin\Debug\net5.0\DroneAircraft.dll
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\bin\Debug\net5.0\DroneAircraft.pdb
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\obj\Debug\net5.0\DroneAircraft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\obj\Debug\net5.0\DroneAircraft.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\obj\Debug\net5.0\DroneAircraft.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\obj\Debug\net5.0\DroneAircraft.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\obj\Debug\net5.0\DroneAircraft.sourcelink.json
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\obj\Debug\net5.0\DroneAircraft.dll
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\obj\Debug\net5.0\refint\DroneAircraft.dll
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\obj\Debug\net5.0\DroneAircraft.pdb
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\obj\Debug\net5.0\DroneAircraft.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\c#\DroneAirCraft1\obj\Debug\net5.0\ref\DroneAircraft.dll
