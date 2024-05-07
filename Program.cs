@@ -33,7 +33,7 @@ namespace DroneSimulation
                     }
                     else
                     {
-                        Console.WriteLine("he command is typed incorrectly; consider this instruction :launch digit,digit,north|south|east|west");
+                        Console.WriteLine("the command is typed incorrectly; consider this instruction :launch digit,digit,north|south|east|west");
                     }
                     
                                         
